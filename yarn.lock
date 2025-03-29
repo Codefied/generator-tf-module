@@ -2722,9 +2722,7 @@ yallist@^4.0.0:
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
 yeoman-environment@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/yeoman-environment/-/yeoman-environment-3.3.0.tgz#bfb1f5bc1338e09e77e621f49762c61b1934ac65"
-  integrity sha512-2OV2hgRoLjkQrtNIfaTejinMHR5yjJ4DF/aG1Le/qnzHRAsE6gfFm9YL2Sq5FW5l16XSmt7BCMQlcDVyPTxpSg==
+  version "3.7.0"
   dependencies:
     "@npmcli/arborist" "^2.2.2"
     are-we-there-yet "^1.1.5"
