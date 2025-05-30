@@ -30,6 +30,6 @@
   "dependencies": {
     "yeoman-environment": "^3.3.0",
     "yeoman-generator": "^5.2.0",
-    "yosay": "^2.0.2"
+    "yosay": "^3.0.0"
   }
 }
